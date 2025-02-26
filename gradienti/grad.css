@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background: -webkit-linear-gradient(top, red, blue);
+    background: -moz-linear-gradient(top, red, blue);
+    background: -o-linear-gradient(top, red, blue);
+    background: linear-gradient(to bottom, red, blue);
+}
+
